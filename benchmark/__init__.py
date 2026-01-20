@@ -1,2 +1,1 @@
-# Benchmark module
-# This is an empty module for benchmarking purposes.
+# This is a test comment
